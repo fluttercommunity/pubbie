@@ -47,7 +47,7 @@
                 }
             }
         },
-        "archive_url": "https://fluttercommunity.github.io/pubbie/assets/macos_ui/1.12.2.tar.gz",
+        "archive_url": "https://fluttercommunity.github.io/pubbie/assets/macos_ui/macos_ui-1.12.2.tar.gz",
         "archive_sha256": "57208eec8180656acd379e1c754e9b6d8830f32a020b94571ae2188f8112075b",
         "published": "2023-03-03T16:00:31.886042Z"
     },
@@ -2551,7 +2551,7 @@
                 }
             }
         },
-        "archive_url": "https://fluttercommunity.github.io/pubbie/assets/macos_ui/1.7.4.tar.gz",
+        "archive_url": "https://fluttercommunity.github.io/pubbie/assets/macos_ui/macos_ui-1.7.4.tar.gz",
         "archive_sha256": "d14bc47f556d4cf62f75303ff6fc6c2345de2e25a22412c6d9d8d0e83efa38fe",
         "published": "2022-08-20T18:59:42.075387Z"
     },
@@ -3051,7 +3051,7 @@
                 }
             }
         },
-        "archive_url": "https://fluttercommunity.github.io/pubbie/assets/macos_ui/1.12.2.tar.gz",
+        "archive_url": "https://fluttercommunity.github.io/pubbie/assets/macos_ui/macos_ui-1.12.2.tar.gz",
         "archive_sha256": "57208eec8180656acd379e1c754e9b6d8830f32a020b94571ae2188f8112075b",
         "published": "2023-03-03T16:00:31.886042Z"
     }]
